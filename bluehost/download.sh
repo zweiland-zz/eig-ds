@@ -3,7 +3,7 @@
 # Pull the latest changes from the repo
 git pull
 
-files="eig-ds-hostgator-portal" # add a new file like this: "file1 file2 file3"
+files="eig-ds-bluehost-bluerock" # add a new file like this: "file1 file2 file3"
 for f in $files
 do
   # Zip core Sketch data
